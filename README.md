@@ -33,3 +33,4 @@ Here is your task We need to present a strategic recommendation to Julia that is
 supported by data which she can then use for the upcoming category review. However, to 
 do so, we need to analyse the data to understand the current purchasing trends and 
 behaviours.
+
