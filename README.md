@@ -26,4 +26,4 @@ unique customers into lifestage and value-based groups—such as young singles, 
 retirees, and budget vs. premium shoppers. A total of 262,552 transactions were analyzed, 
 representing over $1.92 million in sales, with an average transaction value of $7.27 and 
 3.6 transactions per customer
-[Click here for more detail](https://github.com/bryan405/Chip_analysis_project/blob/main/Executive%20Summary.pdf)
+[Click here for more details](https://github.com/bryan405/Chip_analysis_project/blob/main/Executive%20Summary.pdf)
