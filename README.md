@@ -14,7 +14,7 @@ julia, the chips boss, wants our help! She needs smart ideas to sell more chips 
 # [project overview](#project-overview)
 This project aims to support the Category Manager, Julia, in making data-driven decisions for an upcoming category review of chip products. The primary goal is to analyze transaction and customer data to understand purchasing trends and behaviors, especially across different customer segments.
 The client is particularly interested in understanding:
-[click hsre for more details](https://github.com/bryan405/Chip_analysis_project/raw/refs/heads/main/project%20overview2.docx)
+[click hsre for more details](https://github.com/bryan405/Chip_analysis_project/blob/main/project%20overview2.pdf)
 
 # [Executive Summary](#executive-summary)
 Executive Summary
@@ -27,3 +27,5 @@ retirees, and budget vs. premium shoppers. A total of 262,552 transactions were 
 representing over $1.92 million in sales, with an average transaction value of $7.27 and 
 3.6 transactions per customer
 [Click here for more details](https://github.com/bryan405/Chip_analysis_project/blob/main/Executive%20Summary.pdf)
+
+# [Business Problem](#business-problem)
