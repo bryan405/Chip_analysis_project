@@ -34,3 +34,5 @@ supported by data which she can then use for the upcoming category review. Howev
 do so, we need to analyse the data to understand the current purchasing trends and 
 behaviours.
 [clickhere for more details](https://github.com/bryan405/Chip_analysis_project/blob/main/business%20request.pdf)
+
+# [Data Overview](#data-overview)
