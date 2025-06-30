@@ -40,3 +40,5 @@ behaviours.
 
 #  [Data Cleaning & Preparation](#data-cleaning--preparation)
 [Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/enhanced_chip_analysis.pdf)
+
+# [Customer Segmentation Analysis](#customer-segmentation-analysis)
