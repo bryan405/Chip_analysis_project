@@ -43,4 +43,4 @@ behaviours.
 
 # [Customer Segmentation Analysis](#customer-segmentation-analysis)
 [Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/segment_summary.csv)
-[Click here to view](
+[Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/customer_segmentation_dashboard.png)
