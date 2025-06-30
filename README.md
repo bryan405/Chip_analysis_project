@@ -37,3 +37,5 @@ behaviours.
 
 # [Data Overview](#data-overview)
 [Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/Data%20Overview.pdf)
+
+#  [Data Cleaning & Preparation](#data-cleaning--preparation)
