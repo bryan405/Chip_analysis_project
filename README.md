@@ -3,6 +3,7 @@ julia, the chips boss, wants our help! She needs smart ideas to sell more chips 
 
 # Table of Contents
 
+[project overview](#project-overview)
 1. [Executive Summary](#executive-summary)
 2. [Business Problem](#business-problem)
 3. [Data Overview](#data-overview)
