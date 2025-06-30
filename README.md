@@ -29,3 +29,7 @@ representing over $1.92 million in sales, with an average transaction value of $
 [Click here for more details](https://github.com/bryan405/Chip_analysis_project/blob/main/Executive%20Summary.pdf)
 
 # [Business Problem](#business-problem)
+Here is your task We need to present a strategic recommendation to Julia that is 
+supported by data which she can then use for the upcoming category review. However, to 
+do so, we need to analyse the data to understand the current purchasing trends and 
+behaviours.
