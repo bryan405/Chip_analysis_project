@@ -14,4 +14,4 @@ julia, the chips boss, wants our help! She needs smart ideas to sell more chips 
 # [project overview](#project-overview)
 This project aims to support the Category Manager, Julia, in making data-driven decisions for an upcoming category review of chip products. The primary goal is to analyze transaction and customer data to understand purchasing trends and behaviors, especially across different customer segments.
 The client is particularly interested in understanding:
-click hsre for details.
+[click hsre for more details](https://github.com/bryan405/Chip_analysis_project/raw/refs/heads/main/project%20overview2.docx)
