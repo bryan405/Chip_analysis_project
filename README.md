@@ -49,3 +49,4 @@ behaviours.
 [Click here here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/QVI_Chip_Analysis_Simple.pdf)
 
 # [Strategic Recommendations](#strategic-recommendations)
+[Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/BUSINESS%20RECOMMENDATIONS.pdf)
