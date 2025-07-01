@@ -46,3 +46,4 @@ behaviours.
 [Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/customer_segmentation_dashboard.png)
 
 # [Key Insights & Visuals](#key-insights--visuals)
+[Click here here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/QVI_Chip_Analysis_Simple.pdf)
