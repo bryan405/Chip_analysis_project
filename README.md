@@ -52,3 +52,4 @@ behaviours.
 [Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/BUSINESS%20RECOMMENDATIONS.pdf)
 
 #  [Conclusion / next steps](#Conclusion--next-steps)
+[Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/Conclusions.pdf)
