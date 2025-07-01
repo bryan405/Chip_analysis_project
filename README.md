@@ -10,7 +10,7 @@ julia, the chips boss, wants our help! She needs smart ideas to sell more chips 
 5. [Customer Segmentation Analysis](#customer-segmentation-analysis)
 6. [Key Insights & Visuals](#key-insights--visuals)
 7. [Strategic Recommendations](#strategic-recommendations)
-8. [Next Steps / Limitations](#next-steps--limitations)
+8. [Conclusion / next steps](#Conclusion--next-steps)
 # [project overview](#project-overview)
 This project aims to support the Category Manager, Julia, in making data-driven decisions for an upcoming category review of chip products. The primary goal is to analyze transaction and customer data to understand purchasing trends and behaviors, especially across different customer segments.
 The client is particularly interested in understanding:
@@ -50,3 +50,5 @@ behaviours.
 
 # [Strategic Recommendations](#strategic-recommendations)
 [Click here to view](https://github.com/bryan405/Chip_analysis_project/blob/main/BUSINESS%20RECOMMENDATIONS.pdf)
+
+#  [Conclusion / next steps](#Conclusion--next-steps)
